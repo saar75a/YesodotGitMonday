@@ -13,5 +13,5 @@ void main()
 	printf("Saar Was Here 2\n");
 
 	//Saar Change Login Screen
-	printf("Change Login Screen\n");
+	printf("CHANGE\n");
 }
