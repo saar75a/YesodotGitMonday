@@ -12,6 +12,6 @@ void main()
 	//Saar Change 2
 	printf("Saar Was Here 2\n");
 
-	//Saar Change Login Screen
-	printf("asdasd -CHANG1232132asdasd13213E  - asdsadsad asdsad");
+	//Saar Change 2
+	printfA("Saar Was Hsadsadere 2\n");
 }
